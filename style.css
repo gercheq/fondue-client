@@ -1,0 +1,14 @@
+html,
+body {
+  background: #000;
+  color: #FFF;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  margin: 0;
+  transition: background-color 2s ease;
+}
+
+h1 {
+  padding: 40vh 0;
+}
